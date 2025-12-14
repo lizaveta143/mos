@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdo=self.webpackChunkdo||[]).push([[588],{4885:(t,a,e)=>{e.r(a),e.d(a,{default:()=>s});var d=new CustomEvent("srcLoaded");function s(t){"lazySrc"in t.dataset&&t.dataset.lazySrc&&(t.addEventListener("load",(function(){document.dispatchEvent(d)})),t.src=t.dataset.lazySrc,t.removeAttribute("data-lazy-src"))}}}]);
